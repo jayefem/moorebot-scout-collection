@@ -1,6 +1,6 @@
 # Moorebot Scout Collection
 
-This repostitory is a growing collection of programs for the awesome [Moorebot Scout](https://www.moorebot.com/pages/moorebot-scout).
+This repostitory is a growing collection of programs for the awesome [Moorebot Scout](https://www.moorebot.com/pages/moorebot-scout){:target="_blank"}.
 
 ## Scratch
 
